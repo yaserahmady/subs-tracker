@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Netflix",
+        "cost": 16.99,
+        "date_start": "31/05/2021"
+    },
+    {
+        "name": "Amazon Prime",
+        "cost": 2.99,
+        "date_start": "13/06/2022"
+    },
+    {
+        "name": "Iliad",
+        "cost": 4.99,
+        "date_start": "23/06/2022"
+    },
+    {
+        "name": "OnlyFans",
+        "cost": 6.99,
+        "date_start": "15/06/2022"
+    },
+    {
+        "name": "Disney+",
+        "cost": 9.99,
+        "date_start": "12/06/2022"
+    },
+    {
+        "name": "Palestra",
+        "cost": 35,
+        "date_start": "15/06/2022"
+    }
+]

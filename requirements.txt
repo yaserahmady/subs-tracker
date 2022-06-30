@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+ics
+python-dateutil
+py-moneyed
